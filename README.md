@@ -2,7 +2,7 @@
 
 This repository is for the Pluralsight course **[Contributing to an Open Source Project on GitHub](http://bit.ly/PSContributingToOpenSource)**. The license is Apache 2.0.
 
-<!-- [![Course overview screenshot](https://user-images.githubusercontent.com/563819/67175905-79beda80-f38d-11e9-8106-b2bce380340e.png)](http://bit.ly/PSContributingToOpenSource) -->
+[![Course overview screenshot](https://user-images.githubusercontent.com/563819/71635500-cd9a3b00-2bea-11ea-9729-a4b32d7a1284.png)](http://bit.ly/PSContributingToOpenSource)
 
 
 ## Table of Contents
